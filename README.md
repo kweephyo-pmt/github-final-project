@@ -20,3 +20,9 @@ A lightweight Bash script that calculates **simple interest** given the principa
    ```bash
    git clone https://github.com/kweephyo-pmt/github-final-project.git
    cd github-final-project
+
+## 📜 License
+This project is licensed under the [Apache License 2.0](LICENSE.md).
+
+## 👥 Contributing
+Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
