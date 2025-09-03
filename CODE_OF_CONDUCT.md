@@ -18,5 +18,5 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 2. **Clone your fork**  
    ```bash
-   git clone https://github.com/<your-username>/github-final-project.git
+   git clone https://github.com/kweephyo-pmt/github-final-project.git
    cd github-final-project
