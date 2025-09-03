@@ -18,5 +18,5 @@ A lightweight Bash script that calculates **simple interest** given the principa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/github-final-project.git
+   git clone https://github.com/kweephyo-pmt/github-final-project.git
    cd github-final-project
